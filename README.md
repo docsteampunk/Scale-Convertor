@@ -1,2 +1,2 @@
 # Scale-Convertor
-Created an application that allows to calculate scale.
+Created an application that allows to calculate scale. To enter in values, you must have both a scale to convert from and to. You must then enter the distance. Check the measurments and then press convert. ```scales.csv``` hold settings data and all the scale information. Adding scales is easy by just selecting ```Settings > Add Scale``` or by using the command ```CTRL + A```. To set a particular scale, use  ```Settings > Set As Auto Start``` or ```CTRL + S```. This will require a restart to see changes due to python's csv library.
